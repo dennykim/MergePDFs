@@ -19,6 +19,6 @@ A pop-up will appear for you to rename the merged PDF. Once this is done your me
 
 ![alt tag](https://github.com/d77kim/MergePDFs/raw/master/Images/RenameMergedPDF.png)
 
-To enable/disable the service, go to System Preferences > Keyboard > Shortcuts > Files and Folders.
+To enable/disable the service, go to System Preferences > Keyboard > Shortcuts > Services > Files and Folders.
 
 ![alt tag](https://github.com/d77kim/MergePDFs/raw/master/Images/SystemPreferences-Services.png)
